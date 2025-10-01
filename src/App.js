@@ -24,6 +24,7 @@ import NouvelEvenement from './pages/admin/NouvelEvenement';
 import PointsInteret from './pages/PointsInteret';
 import PointInteretDetail from './pages/PointInteretDetail';
 import MesFavoris from './pages/MesFavoris';
+import PointInteretForm from './components/points-interet/PointInteretForm';
 
 /**
  * Composant principal de l'application
@@ -82,6 +83,15 @@ function App() {
               element={
                 <ProtectedRoute>
                   <PointInteretDetail />
+                </ProtectedRoute>
+              } 
+            />
+
+             <Route 
+              path="/admin/points-interet/nouveau" 
+              element={
+                <ProtectedRoute>
+                  <PointInteretForm />
                 </ProtectedRoute>
               } 
             />

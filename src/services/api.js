@@ -11,9 +11,10 @@ import axios from 'axios';
  * - La gestion automatique des tokens JWT
  * - Les intercepteurs pour les erreurs
  */
-
 // URL de base de notre API Laravel
-const BASE_URL = 'http://localhost:8000/api';
+
+// const BASE_URL = 'http://localhost:8000/api';
+const BASE_URL = 'https://magal-touba-service-main-wb2l6a.laravel.cloud/api';
 
 // Créer une instance Axios avec configuration personnalisée
 const api = axios.create({
