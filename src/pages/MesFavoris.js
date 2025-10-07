@@ -136,7 +136,7 @@ const MesFavoris = () => {
               Mes Favoris
             </h1>
             <p className="text-muted">
-              Vos lieux préférés pour le Magal Touba 2024
+              Vos lieux préférés pour le Magal Touba 2026
             </p>
           </div>
         </div>
