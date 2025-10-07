@@ -165,7 +165,8 @@
 
 /* Footer avec dégradé */
 .magal-footer {
-  background: linear-gradient(135deg, #343a40, #495057);
+    background: linear-gradient(135deg, hwb(273 18% 15%), hwb(37 29% 66% / 0.956));
+
 }
 
 /* =====================================
