@@ -69,7 +69,7 @@
    ===================================== */
 
 :root {
-  --magal-primary: #28a745;     /* Vert islamique */
+  --magal-primary: #2e28a7;     /* Vert islamique */
   --magal-secondary: #6c757d;   /* Gris */
   --magal-success: #20c997;     /* Vert clair */
   --magal-warning: #ffc107;     /* Doré */
@@ -97,7 +97,7 @@
 
 /* Boutons avec style Magal */
 .btn-magal-primary {
-  background: linear-gradient(45deg, #28a745, #20c997);
+  background: linear-gradient(45deg, #812eda, #20c997);
   border: none;
   border-radius: 25px;
   padding: 10px 30px;
