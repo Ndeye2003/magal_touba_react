@@ -324,7 +324,7 @@ const Navbar = () => {
         {/* Logo/Brand */}
         <Link to="/" className="navbar-brand fw-bold text-white">
           <span className="me-2">🕌</span>
-          Magal Touba 2024
+          Magal Touba 2026
         </Link>
         
         {/* Badge notification mobile (visible uniquement sur mobile) */}
