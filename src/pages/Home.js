@@ -77,7 +77,7 @@ const Home = () => {
           <div className="col-lg-6">
             <div className="fade-in">
               <h1 className="display-4 fw-bold text-magal-primary mb-4">
-                Bienvenue au Magal Touba 2024
+                Bienvenue au Magal Touba 2026
               </h1>
               <p className="lead text-muted mb-4">
                 Votre compagnon numérique pour vivre pleinement le Grand Magal de Touba. 
@@ -185,7 +185,7 @@ const Home = () => {
                       Assalamou Alaykoum, {user?.prenom} ! 🕌
                     </h2>
                     <p className="text-muted mb-0">
-                      Bienvenue sur votre espace personnel Magal Touba 2024
+                      Bienvenue sur votre espace personnel Magal Touba 2026
                     </p>
                   </div>
                   <div className="col-md-4 text-end">
