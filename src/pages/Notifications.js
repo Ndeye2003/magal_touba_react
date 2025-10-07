@@ -340,7 +340,7 @@ const Notifications = () => {
               Mes Notifications
             </h1>
             <p className="text-muted">
-              Restez informé des actualités du Magal Touba 2024
+              Restez informé des actualités du Magal Touba 2026
             </p>
           </div>
           
