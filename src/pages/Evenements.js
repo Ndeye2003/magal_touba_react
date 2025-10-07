@@ -321,7 +321,7 @@ const Evenements = () => {
         <div className="row mb-4">
           <div className="col-md-8">
             <h1 className="text-magal-primary mb-2 fade-in">
-              📅 Événements du Magal Touba 2024
+              📅 Événements du Magal Touba 2026
             </h1>
             <p className="text-muted">
               Découvrez et participez aux événements spirituels et culturels
