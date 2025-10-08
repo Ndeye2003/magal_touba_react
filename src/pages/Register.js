@@ -485,7 +485,7 @@ const Register = () => {
                     Inscription en cours...
                   </>
                 ) : (
-                  'Créer mon compte'
+                  'Créer un compte'
                 )}
               </button>
             </form>
