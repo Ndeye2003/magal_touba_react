@@ -498,7 +498,7 @@ const Register = () => {
                   to="/login" 
                   className="text-magal-primary text-decoration-none fw-semibold"
                 >
-                  Se connecter ici
+                  Se connecter 
                 </Link>
               </p>
             </div>
