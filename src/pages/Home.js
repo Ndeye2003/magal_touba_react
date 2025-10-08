@@ -307,12 +307,12 @@ const Home = () => {
           <div className="col-md-4 mb-4">
             <div className="magal-card">
               <div className="card-header bg-transparent">
-                <h5 className="mb-0 text-magal-primary">Citation du Jour</h5>
+                <h5 className="mb-0 text-magal-primary">Citation </h5>
               </div>
               <div className="card-body text-center">
                 <blockquote className="blockquote">
                   <p className="mb-3">
-                    "La patience est la clé de la délivrance"
+                    "Prie Dieu comme si tu devais mourir demain,mais travail comme si tu ne devais jamais mourir"
                   </p>
                   <footer className="blockquote-footer">
                     <cite title="Source">Cheikh Ahmadou Bamba</cite>
