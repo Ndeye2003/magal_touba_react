@@ -353,7 +353,7 @@ const Register = () => {
                   id="telephone"
                   name="telephone"
                   className={`form-control magal-input ${errors.telephone ? 'is-invalid' : ''}`}
-                  placeholder="77 123 45 67"
+                  placeholder="762430235"
                   value={formData.telephone}
                   onChange={handleInputChange}
                   disabled={loading}
@@ -378,7 +378,7 @@ const Register = () => {
                     id="password"
                     name="password"
                     className={`form-control magal-input ${errors.password ? 'is-invalid' : ''}`}
-                    placeholder="Choisissez un mot de passe fort"
+                    placeholder="Choisissez un mot de passe "
                     value={formData.password}
                     onChange={handleInputChange}
                     disabled={loading}
@@ -430,7 +430,7 @@ const Register = () => {
                     id="password_confirmation"
                     name="password_confirmation"
                     className={`form-control magal-input ${errors.password_confirmation ? 'is-invalid' : ''}`}
-                    placeholder="Confirmez votre mot de passe"
+                    placeholder="Veuillez confirmer votre mot de passe"
                     value={formData.password_confirmation}
                     onChange={handleInputChange}
                     disabled={loading}
